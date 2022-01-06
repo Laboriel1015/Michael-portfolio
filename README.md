@@ -3,6 +3,7 @@ This portfolio is a small project using HTML/ CSS and Boostrap. I will be using 
 
 [Live Heroku Deployment](https://portfolio-laboriel.herokuapp.com/)
 
+![Screenshot 2022-01-07 at 2 45 35 AM](https://user-images.githubusercontent.com/95891258/148453542-1cd0aa6b-6f48-4a92-8c63-03b8f65dc7ad.png)
 
 
 ## Technologies Used
