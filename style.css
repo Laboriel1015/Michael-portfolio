@@ -9,7 +9,7 @@ body {
 }
 
 .font-primary {
-  color: crimson;
+  color: #00abae;
 }
 
 .title-icon {
@@ -31,31 +31,29 @@ ABOUT
 
 #about img {
   border-radius: 100%;
-  width: 150px;
+  width: 130px;
+  height: 120px;
   margin-bottom: 10px;
 }
 #about .name {
   font-size: 19px;
-  margin-top: 5px;
 }
 
 #about .vocation {
   font-size: 17px;
-  color: crimson;
+  color: #a8a8ab;
   margin-bottom: 10px;
 }
 
-.skills {
+#about .skills {
   font-size: 15px;
-  color: blue;
+  color: #00abae;
   margin-bottom: 10px;
-  text-align: center;
 }
 
-.email {
+#about .email {
   margin-top: 14px;
-  font-size: 20px;
-  text-align: center;
+  font-size: 14px;
 }
 
 p {
@@ -70,14 +68,18 @@ h2 {
 }
 
 a.font-black {
-  color: black;
+  color: #000 !important;
 }
 
-.icon {
+#about .icon {
   text-align: center;
   margin-top: 20px;
+  font-size: 30px;
 }
 
+#about .icon a {
+  color: black;
+}
 /***************
 
 PROJECT
