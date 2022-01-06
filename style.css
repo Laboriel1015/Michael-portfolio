@@ -1,0 +1,106 @@
+/***************
+
+COMMON
+
+***************/
+
+body {
+  font-family: "monospace", san-serif;
+}
+
+.font-primary {
+  color: crimson;
+}
+
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/*************
+
+ABOUT
+
+**************/
+
+#about {
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+#about img {
+  border-radius: 100%;
+  width: 150px;
+  margin-bottom: 10px;
+}
+#about .name {
+  font-size: 19px;
+  margin-top: 5px;
+}
+
+#about .vocation {
+  font-size: 17px;
+  color: crimson;
+  margin-bottom: 10px;
+}
+
+.skills {
+  font-size: 15px;
+  color: blue;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.email {
+  margin-top: 14px;
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 14px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+a.font-black {
+  color: black;
+}
+
+.icon {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/***************
+
+PROJECT
+
+****************/
+
+#project {
+  margin: 60px auto;
+  width: 80%;
+}
+
+#project h2 {
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+}
+
+#project p {
+  text-align: justify;
+}
+
+#project .card-title {
+  font-weight: bold;
+}
