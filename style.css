@@ -9,10 +9,60 @@ body {
 }
 
 .font-primary {
-  color: #00a8ae;
+  color: crimson;
 }
 
 .title-icon {
   font-size: 20px;
   font-weight: bold;
+}
+
+/*************
+
+ABOUT
+
+**************/
+
+#about {
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+#about img {
+  border-radius: 100%;
+  width: 150px;
+  margin-bottom: 10px;
+}
+#about .name {
+  font-size: 19px;
+  margin-top: 5px;
+}
+
+#about .vocation {
+  font-size: 17px;
+  color: crimson;
+  margin-bottom: 10px;
+}
+
+.skills {
+  font-size: 15px;
+  color: blue;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.email {
+  margin-top: 14px;
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.icon {
+  text-align: center;
+  margin-top: 20px;
 }
